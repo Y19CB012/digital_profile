@@ -8,3 +8,7 @@
 **this text will be bold**
 __this will be also bold__
 *you**can**combine them*
+*item 1
+*item 2
+*item 2a
+*item 2b
