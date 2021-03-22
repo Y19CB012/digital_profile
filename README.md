@@ -21,5 +21,6 @@ item 3
 
 
 First header | second header
+-------------|--------------
 content cell 1 | content cell 2
 content column 1 | content column 2
