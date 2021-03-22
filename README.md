@@ -12,3 +12,8 @@ __this will be also bold__
 *item 2
 *item 2a
 *item 2b
+item 1
+item 2
+item 3
+*item 3a
+*item 3b
